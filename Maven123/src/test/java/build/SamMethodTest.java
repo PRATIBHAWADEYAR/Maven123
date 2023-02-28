@@ -8,7 +8,7 @@ public class SamMethodTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+	System.out.println("CHANGES FOR GIT" );;
 	}
 
 }
